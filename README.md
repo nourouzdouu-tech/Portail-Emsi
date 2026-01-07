@@ -113,18 +113,10 @@ Bonnes pratiques
 - Ajouter des migrations pour tout changement de schéma
 - Ajouter des tests pour nouvelles fonctionnalités critiques
 
-Licence
 
-Précisez ici la licence utilisée (ex : MIT). Si vous n'avez pas encore choisi, ajoutez un fichier `LICENSE`.
 
 Contact
 
-- Mainteneur: Votre nom ou organisation
-- Email: votre@email.tld
-- Slack / Discord / autre: (optionnel)
+- Email: nour.ouzdouu@gmail.com
 
-Remarques / TODO
-- Documenter les points d'API exposés
-- Ajouter un guide de déploiement CI/CD (GitHub Actions / autre)
 
-Fichier créé : [README.md](README.md)
